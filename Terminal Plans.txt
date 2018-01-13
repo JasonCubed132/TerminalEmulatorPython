@@ -1,0 +1,37 @@
+PLANS FOR TERMINAL (EMULATOR) IN PYTHON:
+
+The goal of this project is to get code something fun for me to use that
+I can easily customise and build in custom functions. There are several
+things I'd like to do with this project, I have listed them below:
+
+1) The ability to interact with normal commands:
+This would allow me to interact with CMD and run normal commands, and
+have the output of them piped back to the terminal emulator.
+
+2) Command aliases:
+I would like the ability to have short, and simple command aliases for
+various programs like pip, conda, and other install services.
+
+3) Custom functions:
+I would like the ability to code in different, custom functions that
+would assist me in my day-to-day work. An example of this (that kind
+of prompted the project) is a dictionary function, where I could run:
+
+dictionary {word1};{word2}
+
+And it would output the definitions of those words. Another example
+is that I would like to be able to run custom functions for communicating
+with my other hardware (such as the Raspberry Pi and Ardino (an example
+of this would be the Arduino Remote Sketch Uploader)) and be able to
+run different programs on them and interact with the GPIO pins.
+
+4) Program interaction:
+I would like to be able to interact with different programs locally,
+I have already coded in the python terminal which is a perfect example of
+this.
+
+5) Python script management:
+I would like to be able to manage all of my scripts in one place and have
+their functionalities accessible from a central point, a couple scripts
+I have that would come under this are my bot's code and the factorio 
+mod manager.
